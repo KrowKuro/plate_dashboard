@@ -1,0 +1,82 @@
+[
+  {
+    "id": "item-1",
+    "name": "Northwind",
+    "category": "alpha",
+    "status": "active",
+    "value": 4200,
+    "notes": "Primary account.",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "item-2",
+    "name": "Contoso",
+    "category": "alpha",
+    "status": "active",
+    "value": 3100,
+    "notes": "",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "item-3",
+    "name": "Fabrikam",
+    "category": "beta",
+    "status": "paused",
+    "value": 2450,
+    "notes": "Renewal pending.",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "item-4",
+    "name": "Adventure Works",
+    "category": "beta",
+    "status": "active",
+    "value": 1890,
+    "notes": "",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "item-5",
+    "name": "Tailspin Toys",
+    "category": "gamma",
+    "status": "active",
+    "value": 1520,
+    "notes": "",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "item-6",
+    "name": "Wingtip Toys",
+    "category": "gamma",
+    "status": "archived",
+    "value": 940,
+    "notes": "",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "item-7",
+    "name": "Litware",
+    "category": "beta",
+    "status": "active",
+    "value": 760,
+    "notes": "",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "item-8",
+    "name": "Proseware",
+    "category": "alpha",
+    "status": "paused",
+    "value": 610,
+    "notes": "",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  }
+]
